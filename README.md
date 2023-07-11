@@ -11,7 +11,7 @@ extremely long to scrape everything.
 So the actual list is the content list of the ./data directory 
 from the database.tar.gz archive.
 
-Extracted size is 15.1 GB.
+Extracted size is 15.3 GB.
 
 Each JSON file here includes at least 1 product.
 
